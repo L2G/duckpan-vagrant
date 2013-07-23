@@ -5,7 +5,7 @@ Vagrant.configure("2") do |config|
 
   # Change this to the name of your Vagrant base box.
 
-  config.vm.box = "base-ubuntu-lucid"
+  config.vm.box = "base"
 
   # Change this to a URL from which the base box can be downloaded, if you like.
 
